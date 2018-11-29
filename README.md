@@ -6,6 +6,7 @@ Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Accenture](https://www.accenture.com/br-pt/careers/recife) | Recife, PE | Redux, React Native
 [Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
+[AQUARELA](https://www.aquarela.studio/)| Salvador, BA | Redux, Reactotron, React Native, Webpack, Firebase, GraphQL
 [AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
 [AMERICANAS](https://www.americanas.com.br/) | São Paulo, SP |
 [App2Sales](http://app2sales.com) | Feira de Santana, Bahia | React Native, Redux, Sagas
@@ -75,6 +76,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Home Team](https://hometeam.com.br/) |  | Redux
 [Hotmart](https://www.hotmart.com) | São Paulo, SP<br/>Rio de Janeiro, RJ<br/>Belo Horizonte, BH | MobX, Next.js, React Native, Redux, Styled Components, CSS Modules
 [Icarus Tech](http://icarustech.com.br) | Florianópolis, SC | Redux
+[ICA Card](https://www.icacard.com.br/)| Salvador, BA | Redux, React Native
 [iClinic](https://iclinic.com.br/) | Ribeirão Preto, SP | React Native, Flux, Redux, Saga, Jest
 [iFood](https://ifood.com.br) | São Paulo, SP<br/>Campinas, SP<br/>Salvador, BA | Redux, Recompose, Ducks, Saga, Jest, Enzyme, actionz
 [Ilegra](http://ilegra.com/)| São Paulo, SP<br/>Porto Alegre, RS | Redux, Saga, Styled Components
